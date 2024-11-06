@@ -1,6 +1,7 @@
 import './css/app.css'
 import './css/cards.css'
 import './css/header.css'
+import './css/footer.css'
 import moment from 'moment'
 
 console.log(moment().startOf('hour').fromNow());
@@ -44,3 +45,17 @@ function createKnotCard(name, description) {
 }
 
 const cardContainer = document.querySelector('.cards ul');
+
+const data = [
+  {
+    "name": 'Knot1',
+    "description": 'Description of knot 1.'
+  }
+
+
+];
+
+data.forEach(knot => {
+
+  createKnotCard(knot.name, knot.description)
+});
