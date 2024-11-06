@@ -1,6 +1,6 @@
-console.info('./fetch.js');
+console.info('/js/fetch.js');
 
-fetch('./data.json')
+fetch('/js/data.json')
     .then(response => response.json())
     .then(data => {
         data.forEach(knot => {
