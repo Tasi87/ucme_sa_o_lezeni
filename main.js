@@ -13,7 +13,7 @@ console.log(moment().startOf('hour').fromNow());
 * @param {String} name
 * @param {String} description
 */
-function createKnotCard(name, description) {
+export function createKnotCard(name, description) {
   const newCard = document.createElement('li');
 
   newCard.innerHTML = `
