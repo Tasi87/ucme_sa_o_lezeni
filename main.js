@@ -45,17 +45,3 @@ function createKnotCard(name, description) {
 }
 
 const cardContainer = document.querySelector('.cards ul');
-
-const data = [
-  {
-    "name": 'Knot1',
-    "description": 'Description of knot 1.'
-  }
-
-
-];
-
-data.forEach(knot => {
-
-  createKnotCard(knot.name, knot.description)
-});
