@@ -1,0 +1,20 @@
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+}
+
+html {
+	font-size: 100%;
+}
+
+body {
+    color: black;
+    background: #77B3D9;
+
+    font-family: 'Rajdhani', sans-serif;
+}
+
+strong {
+    color: #8C4303;
+}
