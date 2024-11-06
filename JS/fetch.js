@@ -1,9 +1,9 @@
-import { createKnotCard } from "..main/";
+import { createKnotCard } from './main.js';
 
 fetch('/js/data.json')
     .then(response => response.json())
     .then(data => {
         data.forEach(knot => {
-            createKnotCard(knot.name, knot.description)
+            createKnotCard(knot.name, knot.description);
         });
     });
