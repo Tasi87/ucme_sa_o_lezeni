@@ -12,7 +12,6 @@
 function createKnotCard(category, name, description, image) {
     const newCard = document.createElement('li');
   
-
     newCard.innerHTML = `
 	  <h2>${category}</h2>
       <h3>${name}</h3>
@@ -25,4 +24,3 @@ function createKnotCard(category, name, description, image) {
   
   const cardContainer = document.querySelector('.cards ul');
 
-  	// newCard.classList.add('animate__animated', )
