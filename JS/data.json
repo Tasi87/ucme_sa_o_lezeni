@@ -2,7 +2,8 @@
     {
 		"category": "Kotviace uzly",
 		"name": "Osmičkový uzol (Figure-eight knot)",
-        "description": "Tento uzol sa najčastejšie používa pri naväzovaní na lano. Jeho základom pre vytvorenie je osmičkový uzol, kde lano ďalej pokračuje cez úväz a spätne vchádza do uzla tak, že ho kopíruje po vytvorenej osmičke. Pred utiahnutím uzla sa upravia pramene tak, aby išli oba súbežne vedľa seba a neprekrižovali sa. Prekrížené pramene by znamenali oslabenie lana v uzle."
+        "description": "Tento uzol sa najčastejšie používa pri naväzovaní na lano. Jeho základom pre vytvorenie je osmičkový uzol, kde lano ďalej pokračuje cez úväz a spätne vchádza do uzla tak, že ho kopíruje po vytvorenej osmičke. Pred utiahnutím uzla sa upravia pramene tak, aby išli oba súbežne vedľa seba a neprekrižovali sa. Prekrížené pramene by znamenali oslabenie lana v uzle.",
+		"image": "/img/osmicka_01.jpeg"
     },
     {
 		"category": "Kotviace uzly",
@@ -51,7 +52,7 @@
     },
     {
 		"category": "Zadrhávacie uzly",
-		"name": "Asymetrický prusík (Machard/French/Bachmann knot)",
+		"name": "Asymetrický prusík (French/Machard/Bachmann knot)",
         "description": "Tento prúsík (machardov, karabínový, s krúžkom, francúzsky) dobre drží len v jednom smere podľa toho ako je uviazaný. Platí tiež, že je vhodné ho minimálne 3 krát obtočiť okolo lana. Nevýhodou tohto uzla je, že po zaťažení sa ťažšie posúva po lane."
     }
 ]
