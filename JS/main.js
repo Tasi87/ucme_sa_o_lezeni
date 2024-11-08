@@ -1,3 +1,5 @@
+// import 'animate.css';
+
 /**
 * createNewCard vytvorí nový card element
 * do Stringu budem posielať Názov uzlu a popis uzlu
