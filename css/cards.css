@@ -20,7 +20,11 @@ li {
     list-style: none;
     border-radius: 0.75rem;
 
+	margin-bottom: 21px;
+
     max-width: 22.5rem;
+
+	overflow: hidden;
 }
 
 h3 {
@@ -34,14 +38,14 @@ h3 {
 
 img {
 	display: none;
-	width: 100px;
-	height: 100px;
+	max-width: 22.5rem;
+	min-width: 22.5rem;
 }
 
 @media screen and (min-width: 787px) {
     .knots {
         display: grid;
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: repeat(2, 1fr);
         gap: 21px;
         
 
@@ -67,22 +71,19 @@ img {
         max-width: 22.5rem;
         min-width: 22.5rem;    
     }
-
-    ul:has(li:nth-child(2):nth-last-child(1)) {
-        grid-template-columns: repeat(2, 1fr);
-        justify-content: center;
-
-    }
-
-    ul li:nth-child(4) {
-        grid-column: 2 / 3;
-    }
 }
 
+@media screen and (min-width: 1600px) {
+    .knots {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 21px;
 
-
-
-
-
-
-
+        justify-items: center;
+    }
+    
+    li {
+        max-width: 22.5rem;
+        min-width: 22.5rem;    
+    }
+}
