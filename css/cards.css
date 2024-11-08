@@ -32,6 +32,12 @@ h3 {
     margin: 0.5rem 1rem;
 }
 
+img {
+	display: none;
+	width: 100px;
+	height: 100px;
+}
+
 @media screen and (min-width: 787px) {
     .knots {
         display: grid;
