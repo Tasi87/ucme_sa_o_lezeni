@@ -1,6 +1,5 @@
 .container {
     margin: 0 1rem;
-    text-align: center;
 }
 
 h2 {
@@ -17,13 +16,13 @@ li {
     background: #BFA004;
     box-shadow: 0.2rem 0.2rem #D9CB04;
 
+	text-align: center;
     list-style: none;
     border-radius: 0.75rem;
 
 	margin-bottom: 1rem;
 
     /* max-width: auto; */
-
 	overflow: hidden;
 }
 
