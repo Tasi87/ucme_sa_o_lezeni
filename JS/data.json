@@ -8,51 +8,61 @@
     {
 		"category": "Kotviace uzly",
 		"name": "Vodcovský uzol (Water knot/UIAA knot)",
-        "description": "Je jeden z najjednoduchších uzlov, najčastejšie používaných pri viazaní slučiek, pri akomkoľvek kotvení lana a taktiež na vytváranie uzla so slučkou na zakladanie do skalných puklín ako istiaci prostriedok. Nevýhoda tohto uzla je že sa po veľkom zaťažení sa ťažko rozväzuje."
+        "description": "Je jeden z najjednoduchších uzlov, najčastejšie používaných pri viazaní slučiek, pri akomkoľvek kotvení lana a taktiež na vytváranie uzla so slučkou na zakladanie do skalných puklín ako istiaci prostriedok. Nevýhoda tohto uzla je že sa po veľkom zaťažení sa ťažko rozväzuje.",
+		"image": "/img/vodcovsky.jpeg"
     },
     {
 		"category": "Kotviace uzly",
 		"name": "Lodný uzol (Clover hitch)",
-        "description": "Tento uzol sa používa veľmi často, hlavne ako zaisťovací uzol, pri sebaistení na štande. Jeho výhodou je že sa dá uviazať aj jednou rukou a ľahko sa povoľuje po zaťažení. Ďalšou, a veľkou výhodou je že lano sa dá v uzle posúvať bez toho, aby sme museli uzol vycvakávať z karabíny. Uzol drží aj pri zaťažení len jedného prameňa lana. <strong>Pozor!</strong> Neviažeme ho na konci lana, mohlo by dôjsť k prevlečeniu lana cez uzol."
+        "description": "Tento uzol sa používa veľmi často, hlavne ako zaisťovací uzol, pri sebaistení na štande. Jeho výhodou je že sa dá uviazať aj jednou rukou a ľahko sa povoľuje po zaťažení. Ďalšou, a veľkou výhodou je že lano sa dá v uzle posúvať bez toho, aby sme museli uzol vycvakávať z karabíny. Uzol drží aj pri zaťažení len jedného prameňa lana. <strong>Pozor!</strong> Neviažeme ho na konci lana, mohlo by dôjsť k prevlečeniu lana cez uzol.",
+		"image": "/img/lodny.jpg"
     },
     {
 		"category": "Kotviace uzly",
 		"name": "Dračí uzol (Bowline knot)",
-        "description": "Tento uzol je dosť diskutovaným uzlom pre jeho bezpečnosť (nebezpečnosť). Pri zaťažení lana ktoré z uzla vychádza je uzol pevný, a aj po veľkom zaťažení sa ľahko rozväzuje. Avšak pri obvodovom zaťažení sa veľmi ľahko uvoľní a rozviaže. Už bolo zaznamenané niekoľko smrteľných úrazov v súvislosti s týmto uzlom. Dá sa použiť ako núdzové naviazanie na lano ak nemáme sedací, alebo hrudný úväz."
+        "description": "Tento uzol je dosť diskutovaným uzlom pre jeho bezpečnosť (nebezpečnosť). Pri zaťažení lana ktoré z uzla vychádza je uzol pevný, a aj po veľkom zaťažení sa ľahko rozväzuje. Avšak pri obvodovom zaťažení sa veľmi ľahko uvoľní a rozviaže. Už bolo zaznamenané niekoľko smrteľných úrazov v súvislosti s týmto uzlom. Dá sa použiť ako núdzové naviazanie na lano ak nemáme sedací, alebo hrudný úväz.",
+		"image": "/img/draci_uzol.jpg"
     },
     {
 		"category": "Manipulačné uzly",
 		"name": "Polovičný lodný uzol (Munter Hitch)",
-        "description": "Tento uzol sa používa k dynamickému isteniu spolulezca, ale v núdzi sa dá použiť na zlaňovanie. Najväčšiu brzdnú silu zabezpečíme, keď istiace lano držíme súbežne so zaťaženým lanom. Polovičný lodný uzol sa pri istení vkladá do karabiny HMS. Tu musíme dávať pozor, aby lano nešlo cez poistku zámku karabíny, aby ju trením neodšrúbovalo a neotvorilo zámok karabíny."
+        "description": "Tento uzol sa používa k dynamickému isteniu spolulezca, ale v núdzi sa dá použiť na zlaňovanie. Najväčšiu brzdnú silu zabezpečíme, keď istiace lano držíme súbežne so zaťaženým lanom. Polovičný lodný uzol sa pri istení vkladá do karabiny HMS. Tu musíme dávať pozor, aby lano nešlo cez poistku zámku karabíny, aby ju trením neodšrúbovalo a neotvorilo zámok karabíny.",
+		"image": "/img/polovicny_lodny.jpeg"
     },
     {
 		"category": "Manipulačné uzly",
 		"name": "Zamykací/Kravský uzol (Mule Overhand knot)",
-        "description": "Tento uzol sa používa na poistenie polovičného lodného uzla, týmto uzlom sa dajú poistiť (zamknúť) aj iné istiace pomôcky, ktorými istíme. Tým sa zbavíme váhy spolulezca a uvoľníme si obe ruky. Po zaviazaní blokovacieho uzla je potrebné ho zaistiť proti rozviazaniu a to tak, že vzniknuté oko zacvakneme do karabíny a pripneme o štand, alebo o lano spolulezca. Uzol sa dobre rozväzuje aj pri zaťažení."
+        "description": "Tento uzol sa používa na poistenie polovičného lodného uzla, týmto uzlom sa dajú poistiť (zamknúť) aj iné istiace pomôcky, ktorými istíme. Tým sa zbavíme váhy spolulezca a uvoľníme si obe ruky. Po zaviazaní blokovacieho uzla je potrebné ho zaistiť proti rozviazaniu a to tak, že vzniknuté oko zacvakneme do karabíny a pripneme o štand, alebo o lano spolulezca. Uzol sa dobre rozväzuje aj pri zaťažení.",
+		"image": "/img/kravsky_01.png"
     },
     {
 		"category": "Spojovacie uzly",
 		"name": "Vodcovský uzol (Water knot//UIAA knot)",
-        "description": "Tento uzol sa používa na zviazanie plochých slučiek. Je to vlastne ako protichodný vodcovský uzol. Pri zviazaní slučky týmto uzlom nesmieme zabudnúť nechať prečnievať koniec slučky z uzla asi 7-10 cm, alebo štvornásobok šírky slučky, pre bezpečnosť pri doťahovaní uzla, aby sa nerozviazal."
+        "description": "Tento uzol sa používa na zviazanie plochých slučiek. Je to vlastne ako protichodný vodcovský uzol. Pri zviazaní slučky týmto uzlom nesmieme zabudnúť nechať prečnievať koniec slučky z uzla asi 7-10 cm, alebo štvornásobok šírky slučky, pre bezpečnosť pri doťahovaní uzla, aby sa nerozviazal.",
+		"image": "/img/vodcovsky_plochy.gif"
     },
     {
 		"category": "Spojovacie uzly",
 		"name": "Ambulantný uzol (Square(Reef) knot)",
-        "description": "Tento uzol sa používa k spájaniu dvoch kruhových slučiek, alebo k naviazaniu dvoch koncov lán ak potrebujeme, aby sa uzol veľmi neutiahol, čiže aj pri zaťažení sa relatívne dobre rozväzuje. Tento uzol sa používa pri rôznych spôsoboch záchrany."
+        "description": "Tento uzol sa používa k spájaniu dvoch kruhových slučiek, alebo k naviazaniu dvoch koncov lán ak potrebujeme, aby sa uzol veľmi neutiahol, čiže aj pri zaťažení sa relatívne dobre rozväzuje. Tento uzol sa používa pri rôznych spôsoboch záchrany.",
+		"image": "/img/ambulantny.jpeg"
     },
     {
 		"category": "Spojovacie uzly",
 		"name": "Dvojitý rybársky uzol (Double Fisherman's knot)",
-        "description": "Uzol sa používa na spájanie dvoch lán rovnakej, ale aj nerovnakej hrúbky. Pri zlaňovaní na zviazanie lán, je to veľmi pevný a bezpečný uzol a nemá tendenciu sa rozviazať. Jeho nevýhodou je, že pri silnom zaťažení sa dosť ťažko rozväzuje. Tento uzol sa tiež používa ako poistný uzol za osmičkovými uzlami, za dračou slučkou, a všade tam kde potrebujeme zabezpečiť poistenie uzla proti rozviazaniu."
+        "description": "Uzol sa používa na spájanie dvoch lán rovnakej, ale aj nerovnakej hrúbky. Pri zlaňovaní na zviazanie lán, je to veľmi pevný a bezpečný uzol a nemá tendenciu sa rozviazať. Jeho nevýhodou je, že pri silnom zaťažení sa dosť ťažko rozväzuje. Tento uzol sa tiež používa ako poistný uzol za osmičkovými uzlami, za dračou slučkou, a všade tam kde potrebujeme zabezpečiť poistenie uzla proti rozviazaniu.",
+		"image": "/img/dvojity_rybarsky.jpeg"
     },
     {
 		"category": "Zadrhávacie uzly",
 		"name": "Symetrický prusíkov uzol (Prusik knot)",
-        "description": "Symetrický prúsík je uzol, ktorý drží v oboch smeroch. Prúsikové uzly sa viažu s tenšou slučkou (repšnúra) ako je lano, na ktoré sa viaže, najlepšie drží pri hrúbke 5-6 mm. Tenšie slučky majú menšiu nosnosť, ťažšie sa povoľujú po zaťažení, hrubšie sa môžu preklzávať po lane. Je potrebné slučku obviazať aspoň 3 krát okolo lana, aby správne držal a nepreklzával. Pred samotným použitím je potrebné funkčnosť uzlu vyskúšať. Všetky druhy prúsikových uzlov sa používajú na šplhanie po lane, pri záchranách, vyťahovaní lezca na lane, samoistení pri zlaňovaní."
+        "description": "Symetrický prúsík je uzol, ktorý drží v oboch smeroch. Prúsikové uzly sa viažu s tenšou slučkou (repšnúra) ako je lano, na ktoré sa viaže, najlepšie drží pri hrúbke 5-6 mm. Tenšie slučky majú menšiu nosnosť, ťažšie sa povoľujú po zaťažení, hrubšie sa môžu preklzávať po lane. Je potrebné slučku obviazať aspoň 3 krát okolo lana, aby správne držal a nepreklzával. Pred samotným použitím je potrebné funkčnosť uzlu vyskúšať. Všetky druhy prúsikových uzlov sa používajú na šplhanie po lane, pri záchranách, vyťahovaní lezca na lane, samoistení pri zlaňovaní.",
+		"image": "/img/symetricky_prusik.jpeg"
     },
     {
 		"category": "Zadrhávacie uzly",
 		"name": "Asymetrický prusík (French/Machard/Bachmann knot)",
-        "description": "Tento prúsík (machardov, karabínový, s krúžkom, francúzsky) dobre drží len v jednom smere podľa toho ako je uviazaný. Platí tiež, že je vhodné ho minimálne 3 krát obtočiť okolo lana. Nevýhodou tohto uzla je, že po zaťažení sa ťažšie posúva po lane."
+        "description": "Tento prúsík (machardov, karabínový, s krúžkom, francúzsky) dobre drží len v jednom smere podľa toho ako je uviazaný. Platí tiež, že je vhodné ho minimálne 3 krát obtočiť okolo lana. Nevýhodou tohto uzla je, že po zaťažení sa ťažšie posúva po lane.",
+		"image": "/img/asymetricke_prusiky.png"
     }
 ]
